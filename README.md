@@ -1,13 +1,35 @@
-# CV – Melvin Belhadrouf
+# CV — Melvin Belhadrouf
 
-🎓 Étudiant en Master 1 Ingénierie Logicielle à l’Université de Rennes  
-💻 Passionné par le développement web et les architectures logicielles  
+**Développeur full-stack en alternance chez Sopra Steria**  
+**Master 2 Ingénierie Logicielle — Université de Rennes (ISTIC)**
 
-📄 [Télécharger mon CV (PDF)](./CV_Melvin_Belhadrouf.pdf)
+Ce dépôt contient mon CV en PDF et sa version web.
 
-## Compétences principales
-- Java
-- Angular, React, Next.js
-- SQL (PostgreSQL, MySQL)
-- Git, Linux, UML
-- Méthodes agiles, vérification formelle (Isabelle/HOL)
+[![Télécharger mon CV en PDF](https://img.shields.io/badge/T%C3%A9l%C3%A9charger_mon_CV-PDF-1f4e79?style=for-the-badge)](https://github.com/melvinbelh/cv-melvin-belhadrouf/raw/refs/heads/main/CV_Melvin_Belhadrouf.pdf)
+[![Consulter mon CV en ligne](https://img.shields.io/badge/Consulter_mon_CV-En_ligne-176B51?style=for-the-badge)](https://melvinbelh.github.io/cv-melvin-belhadrouf/)
+
+## Mon parcours
+
+Depuis septembre 2026, je suis en alternance chez Sopra Steria dans le cadre de mon M2 Ingénierie Logicielle.
+
+De mai à août 2026, j'ai effectué un stage full-stack chez OET Automation sur **Performance Affaire**, une application interne de suivi des affaires. J'y ai développé un module de tickets multiéquipes, son API REST, l'interface utilisateur, les notifications par email et l'historique des modifications.
+
+## Technologies
+
+**Pratiquées pendant mon stage :** Python, Django REST Framework, Vue.js 3, TypeScript, PrimeVue, Pinia, PostgreSQL, Docker et Git.
+
+**Également abordées en formation et dans mes projets :** Java, SQL, Angular, React, HTML et CSS.
+
+## Fichiers
+
+- `CV_Melvin_Belhadrouf.pdf` : CV à consulter ou à télécharger.
+- `index.html` : CV web avec photo intégrée et bouton de téléchargement du PDF.
+- `.nojekyll` : publication statique avec GitHub Pages.
+
+## Liens
+
+[Mon profil GitHub](https://github.com/melvinbelh) · [LinkedIn](https://www.linkedin.com/in/melvin-belhadrouf/) · [Me contacter](mailto:melvin.belhadrouf@outlook.fr)
+
+---
+
+Mise à jour : septembre 2026.

@@ -14,9 +14,13 @@ Depuis septembre 2026, je suis en alternance chez Sopra Steria dans le cadre de 
 
 De mai à août 2026, j'ai effectué un stage full-stack chez OET Automation sur **Performance Affaire**, une application interne de suivi des affaires. J'y ai développé un module de tickets multiéquipes, son API REST, l'interface utilisateur, les notifications par email et l'historique des modifications.
 
+De mai à juin 2025, j’ai réalisé un site vitrine responsive avec **WordPress** pour **Purs décors**, avec une galerie de réalisations et un travail sur le référencement naturel.
+
 ## Technologies
 
 **Pratiquées pendant mon stage :** Python, Django REST Framework, Vue.js 3, TypeScript, PrimeVue, Pinia, PostgreSQL, Docker et Git.
+
+**Stage web chez Purs décors :** WordPress.
 
 **Également abordées en formation et dans mes projets :** Java, SQL, Angular, React, HTML et CSS.
 
